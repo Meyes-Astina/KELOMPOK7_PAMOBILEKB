@@ -1,0 +1,28 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "imageapp",
+            "cwd": "tomato_app\\PA_MOBILE\\image\\imageapp",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "imageapp (profile mode)",
+            "cwd": "tomato_app\\PA_MOBILE\\image\\imageapp",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "imageapp (release mode)",
+            "cwd": "tomato_app\\PA_MOBILE\\image\\imageapp",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
